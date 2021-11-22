@@ -1,0 +1,3 @@
+10:34:02.576 [main] INFO  package2.AppTestTest - landed on home page
+10:34:02.820 [main] INFO  package2.AppTestTest - page title successfully validated
+10:34:02.821 [main] INFO  package2.AppTestTest - browser closed

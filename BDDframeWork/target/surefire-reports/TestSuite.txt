@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 531.277 s <<< FAILURE! - in TestSuite
+com.mindtree.runner.TestRunner.runScenario["Fill the details and Submit the contact form", "Optional[Contact Us]"](3)  Time elapsed: 119.317 s  <<< FAILURE!
+java.lang.NullPointerException
+
+com.mindtree.runner.TestRunner.runScenario["Social Bar", "Optional[SocialBar]"](10)  Time elapsed: 48.16 s  <<< FAILURE!
+java.lang.AssertionError: expected [Twitter] but found [bigsmall.in (@Bigsmallstore) / Twitter]
+

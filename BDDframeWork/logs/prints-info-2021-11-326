@@ -1,0 +1,43 @@
+11:47:01.191 [main] INFO  reusableClass.Base - Display products list 
+11:47:04.455 [main] INFO  reusableClass.Base - On one product details page
+11:47:08.580 [main] INFO  reusableClass.Base - product added to wishlist
+11:47:08.985 [main] INFO  reusableClass.Base - product added to wishlist
+11:47:08.986 [main] INFO  reusableClass.Base -  browser closed
+11:47:17.503 [main] INFO  reusableClass.Base - landed on home page
+11:47:19.927 [main] INFO  reusableClass.Base - clicked on contactUs
+11:47:20.826 [main] INFO  reusableClass.Base - sending details
+11:47:23.795 [main] INFO  reusableClass.Base - details send successfully
+11:47:23.796 [main] INFO  reusableClass.Base - details send successfully
+11:47:23.797 [main] INFO  reusableClass.Base - browser closed
+11:47:35.892 [main] INFO  reusableClass.Base - landed on home page
+11:47:38.247 [main] INFO  reusableClass.Base - giftcard details page
+11:47:38.882 [main] INFO  reusableClass.Base - clicked on ADD TO CART button
+11:47:41.135 [main] INFO  reusableClass.Base - product added to cart
+11:47:41.135 [main] INFO  reusableClass.Base - test completed and browser closed
+11:47:54.633 [main] INFO  reusableClass.Base - landed on home page
+11:47:57.123 [main] INFO  reusableClass.Base - loading signIn page
+11:47:57.601 [main] INFO  reusableClass.Base - sending username
+11:47:57.834 [main] INFO  reusableClass.Base - sending password
+11:48:01.033 [main] INFO  reusableClass.Base - credentials submitted
+11:48:01.033 [main] INFO  reusableClass.Base - test passed and browser closed
+11:48:10.077 [main] INFO  reusableClass.Base - landed on home page
+11:48:10.701 [main] INFO  reusableClass.Base - sending email id in the newsLetter section
+11:48:11.304 [main] INFO  reusableClass.Base - email id submitted
+11:48:11.496 [main] ERROR reusableClass.Base - unable to find newsletter page
+11:48:11.496 [main] INFO  reusableClass.Base - browser closed
+11:48:21.950 [main] INFO  reusableClass.Base - landed on home page
+11:48:26.015 [main] INFO  reusableClass.Base - On products list page
+11:48:29.945 [main] INFO  reusableClass.Base - One product details
+11:48:30.467 [main] INFO  reusableClass.Base - sending pincode
+11:48:30.621 [main] INFO  reusableClass.Base - pincode submitted
+11:48:32.662 [main] INFO  reusableClass.Base - Cash on Delivery is available.
+11:48:32.681 [main] INFO  reusableClass.Base - test successful and browser closed
+11:48:46.526 [main] INFO  reusableClass.Base - landed on home page
+11:48:47.526 [main] INFO  reusableClass.Base - searching product
+11:48:51.177 [main] INFO  reusableClass.Base - products list page
+11:48:51.178 [main] INFO  reusableClass.Base - test passes and browser closed successfully
+11:49:01.329 [main] INFO  reusableClass.Base - landed on home page
+11:49:07.404 [main] INFO  reusableClass.Base - On sign up page
+11:49:08.410 [main] INFO  reusableClass.Base - filling details
+11:49:11.432 [main] INFO  reusableClass.Base - Clicked on submit button
+11:49:11.432 [main] INFO  reusableClass.Base - sign up successful

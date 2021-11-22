@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-17T22:39:48Z" name="Surefire suite" finished-at="2021-11-17T22:40:08Z" duration-ms="20327">
+    <groups>
+    </groups>
+    <test started-at="2021-11-17T22:39:48Z" name="Surefire test" finished-at="2021-11-17T22:40:08Z" duration-ms="20327">
+      <class name="package1.comprehensive.AppTest">
+        <test-method signature="addToWishlist() throws java.io.IOException,java.lang.InterruptedException" started-at="2021-11-17T14:39:48Z" name="addToWishlist" finished-at="2021-11-17T14:40:08Z" duration-ms="20268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishlist -->
+      </class> <!-- package1.comprehensive.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

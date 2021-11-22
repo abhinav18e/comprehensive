@@ -1,0 +1,28 @@
+10:32:28.575 [main] INFO  package2.AppTestTest - sending username
+10:32:28.749 [main] INFO  package2.AppTestTest - sending password
+10:32:32.119 [main] INFO  package2.AppTestTest - credentials submitted
+10:32:32.120 [main] INFO  package2.AppTestTest - test passed and browser closed
+10:32:46.175 [main] INFO  package2.AppTestTest - landed on home page
+10:32:49.978 [main] INFO  package2.AppTestTest - loading signIn page
+10:32:50.791 [main] INFO  package2.AppTestTest - sending username
+10:32:50.927 [main] INFO  package2.AppTestTest - sending password
+10:32:54.511 [main] INFO  package2.AppTestTest - credentials submitted
+10:32:54.511 [main] INFO  package2.AppTestTest - test passed and browser closed
+10:33:03.722 [main] INFO  package2.AppTestTest - landed on home page
+10:33:04.773 [main] INFO  package2.AppTestTest - sending email id in the newsLetter section
+10:33:05.275 [main] INFO  package2.AppTestTest - email id submitted
+10:33:05.592 [main] ERROR package2.AppTestTest - unable to find newsletter page
+10:33:05.594 [main] INFO  package2.AppTestTest - browser closed
+10:33:16.708 [main] INFO  package2.AppTestTest - landed on home page
+10:33:21.351 [main] INFO  package2.AppTestTest - On products list page
+10:33:25.009 [main] INFO  package2.AppTestTest - One product details
+10:33:25.626 [main] INFO  package2.AppTestTest - sending pincode
+10:33:25.771 [main] INFO  package2.AppTestTest - pincode submitted
+10:33:27.807 [main] INFO  package2.AppTestTest - Cash on Delivery is available.
+10:33:27.827 [main] INFO  package2.AppTestTest - test successful and browser closed
+10:33:41.328 [main] INFO  package2.AppTestTest - landed on home page
+10:33:42.055 [main] INFO  package2.AppTestTest - searching product
+10:33:45.683 [main] INFO  package2.AppTestTest - products list page
+10:33:48.968 [main] INFO  package2.AppTestTest - product searched successfully
+10:33:49.235 [main] INFO  package2.AppTestTest - product verified 
+10:33:49.235 [main] INFO  package2.AppTestTest - test passes and browser closed successfully

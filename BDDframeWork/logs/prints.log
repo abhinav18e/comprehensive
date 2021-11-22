@@ -1,0 +1,8 @@
+11:49:21.027 [main] INFO  reusableClass.Base - landed on home page
+11:49:25.210 [main] INFO  reusableClass.Base - landed on gift enquiry page
+11:49:26.406 [main] INFO  reusableClass.Base - details filled
+11:49:30.026 [main] INFO  reusableClass.Base - gift enquiry request submitted
+11:49:30.026 [main] INFO  reusableClass.Base - test successful and browser closed
+11:49:40.946 [main] INFO  reusableClass.Base - landed on home page
+11:49:41.132 [main] INFO  reusableClass.Base - page title successfully validated
+11:49:41.133 [main] INFO  reusableClass.Base - browser closed
